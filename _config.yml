@@ -124,16 +124,16 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
- disqus: "keniris"
+ disqus: ""
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
 
 # Staticman support
 staticman:
-  repository : 
+  repository : "keniris/log"
   # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : 
+  branch     : master
   # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
