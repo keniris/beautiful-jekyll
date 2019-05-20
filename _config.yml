@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "http://keniris.github.io/pglog"
-baseurl: "/pglog"
+url: "http://keniris.github.io/jplog"
+baseurl: "/jplog"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -14,10 +14,10 @@ baseurl: "/pglog"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: What I log?
+title: What I log?JP log
 
 # Short description of your site
-description: A blog for me!
+description: A blog about Japan travel!
  
 # --- Navigation bar options --- #
 
@@ -28,7 +28,7 @@ navbar-links:
     - HAHA~哈狗幫!: "http://keniris.pixnet.net/blog"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://keniris.github.io/pglog"
+  Author's home: "http://keniris.github.io/jplog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
