@@ -14,10 +14,10 @@ baseurl: "/pglog"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: What I log?JP log
+title: What I log?Program log
 
 # Short description of your site
-description: A blog about Japan travel!
+description: A blog about Program log!
  
 # --- Navigation bar options --- #
 
@@ -25,7 +25,6 @@ description: A blog about Japan travel!
 navbar-links:
   About Me: "aboutme"
   Links:
-    - HAHA~哈狗幫!: "http://keniris.pixnet.net/blog"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://keniris.github.io/pglog"
